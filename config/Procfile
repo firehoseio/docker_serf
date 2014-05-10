@@ -1,2 +1,2 @@
-firehose: ./bin/firehose server -p $PORT
+firehose: firehose server -p $PORT
 serf: /usr/local/bin/start_serf.sh
